@@ -2,6 +2,8 @@
 
 **Chatty App** is a full-stack real-time chat application built using the MERN stack with Socket.io, TailwindCSS, and Daisy UI. It features authentication, authorization, real-time messaging, online user status, and state management with Zustand.
 
+You can check out the app [here](https://chatty-app-c2xo.onrender.com/).
+
 ![Screenshot 2025-02-18 234602](https://github.com/user-attachments/assets/ac02bdb7-c867-4fb3-9608-8f69be573783)
 ![Screenshot 2025-02-18 234807](https://github.com/user-attachments/assets/fc4d1a28-12b0-491b-8733-edfbc7601f6e)
 ![Screenshot 2025-02-18 235333](https://github.com/user-attachments/assets/f1dd19d9-bf6a-4d6f-9f4b-58c8c4b3c68c)
